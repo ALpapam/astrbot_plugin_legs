@@ -1,0 +1,6 @@
+name: astrbot_plugin_legs
+display_name: 看看腿插件
+short_desc: 随机获取白丝或黑丝图片
+author: ALpapaM
+version: 1.0.0
+desc: 基于 API 返回图片。支持指令"白丝"、"黑丝"、"看看腿"，其中"看看腿"指令支持在 WebUI 调整黑白丝掉落概率。

@@ -1,0 +1,10 @@
+{
+    "heisi_prob": {
+        "title": "黑丝出现概率 (%)",
+        "description": "触发「看看腿」指令时，黑丝出现的概率（白丝的概率会自动等于 100 减去该值）。数值范围 0 - 100。",
+        "type": "integer",
+        "default": 50,
+        "minimum": 0,
+        "maximum": 100
+    }
+}
